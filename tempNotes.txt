@@ -1,0 +1,117 @@
+
+
+- Tile Actor
+	- Widget with output socket
+	
+	
+- select structure
+
+
+
+
+Pub/Bar:
+
+
+Dark theme:
+- graveyard
+- Svamp
+	- sunken ruin
+- Mist
+- ruins
+- dark crystal
+- monster nest
+- bugs nest
+- Summon Pit
+
+
+
+
+- Quality of production
+	- Input resource quality
+	- qulified worker
+	- working conditions
+	- equipment quality
+	
+	
+House states:
+	- Temperture/Anger
+	- On strike
+	- Revolting
+	(Loyalist to the Crown) / Royalist / King's Men
+	- Patriot
+	
+	
+- Cards as actions
+	- take control
+	- convert to own faction
+	- 
+	
+	
+- Interesting choices (What do I what the player to decide)
+	- Control the people!
+		- Fear
+			- Punishment
+			- Police state
+			- Genocide
+				- -1 worker for 15 years
+		- Joy
+			-
+		- Pride
+				
+				
+				
+				
+- Crafting / Gambling
+	- Take chances (Risk / reward)
+	
+	
+	
+- Heroes rise against the Crown (The people suviovor)
+	- Demon King
+	- Greed King
+	- Corrupted King
+	- Splinless King
+	- 
+	
+	
+	
+Need production for upkeep of defences againt dangers to the King
+	
+	
+	
+Dangers to the King
+	- Uprisning of the people
+	- Heroes of opposite factions
+	- 
+	
+	
+	
+	
+- Create worker token.
+	- over time?
+
+- Worker token
+	- 
+	
+
+- How a household tokens generated??
+	- FamilyToken 
+		- Living on street.
+			- Move to house?
+	
+	
+
+King's residence 
+- +Royalist faction to all in range (provider: If king is seated in residence, then active provider)
+- +Happiness
+- +Security
+	
+
+Steps:
+- Place house
+- Place small woodcutter
+- connect house worker to woodcutter =>  produce 1x lumber
+- 
+	
+	
+	
