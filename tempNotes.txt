@@ -101,17 +101,49 @@ Dangers to the King
 	
 	
 
+- Community points
+	
+	
 King's residence 
 - +Royalist faction to all in range (provider: If king is seated in residence, then active provider)
+- +Loyalty
 - +Happiness
 - +Security
 	
 
+	
+	
+- Households placed far away from royal influence, might secede from the crown. The building can no longer be interacted with.
+	
+	
 Steps:
 - Place house
 - Place small woodcutter
 - connect house worker to woodcutter =>  produce 1x lumber
 - 
+	
+	
+	
+	
+- Greed. Push people too hasten production or advancedment.
+	- I want to get this tech. 
+	
+	
+	
+	
+	
+- Bakery
+	- Consumes bread from global pool
+	- Provides bread
+	
+	
+	
+wool => Linen
+
+
+
+https://www.reddit.com/r/ShouldIbuythisgame/comments/41grni/is_there_a_game_where_you_manage_the_daytoday/
+https://www.nationstates.net/page=create_nation
 	
 	
 	
