@@ -1,0 +1,105 @@
+
+
+
+construction building
+o place building
+o building build over time 
+o build time from avg resource and avg labor
+o Building destroy actor and unallocate sockets
+- Building input output recipe in datatable
+
+ 
+o Better move controls
+
+
+- Resource icons
+
+
+- Drag and drop resource off of reach
+	- Limit range
+	
+	
+o Draw line (curved)
+
+
+
+
+
+
+- Allocated/Unallocated UI visualize
+	- Grey allocated
+	- Green unallocated
+	
+o Socket with multiple allocations
+
+- Storage/Warehouse 
+	- Combine/split resources
+
+- Quality 1-5 stars?
+
+
+
+- Allocatable are not just active or inactive. 0-100% active/effective/quantity
+
+
+
+
+
+Sim Ciry style overworld
+- Setup trade routes
+- style (https://www.youtube.com/watch?v=zcwMD0TpU5A) 5:00
+
+
+
+
+Quanity/quality over distance. Loses 10% per tile distance outside of range 5?
+
+
+
+
+
+- Not able to see if a resource has been allocated to something outside of currect chain. If house has a worker, that is allocated to another structure fx.
+
+- Production. 
+
+
+
+- Worker
+- Forest
+- Forest
+- Forest
+
+
+
+Events:
+
+Killer:
+	A serial killer is loose. Everyone in range has +15 fear
+	- On capture (complete objectives)
+		- Imprisonment 
+			+ permanent fear to all in range
+			+ permanent law/order to all in range
+		- Execute
+			+ permanent sequrity bonus to prison sequrity provider
+
+
+
+
+Stories:
+
+Slum city
+- Mostly run by orphans
+- High production in accid
+- Law set by Orphan gangboses
+
+
+
+
+
+http://store.steampowered.com/app/310470/Grand_Ages_Medieval/
+https://www.google.dk/search?q=brass+game&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj7tY-pvcXXAhWE2BoKHVq4C-YQ_AUICigB&biw=1920&bih=974#imgrc=VNVl2LTVxwJD2M:
+https://www.google.dk/search?biw=1920&bih=974&tbm=isch&sa=1&ei=acMOWrTvK4KtaaWFuLAC&q=strategy+game+local+production&oq=strategy+game+local+production&gs_l=psy-ab.3...83871.84965.0.85105.10.10.0.0.0.0.101.759.9j1.10.0....0...1.1.64.psy-ab..0.0.0....0.cmoqAH7Eubg#imgrc=rJCsmPX3c4WHeM:
+
+
+
+
