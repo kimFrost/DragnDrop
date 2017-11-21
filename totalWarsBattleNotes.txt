@@ -1,0 +1,115 @@
+
+
+- What decisions does a king make
+- What effect does those decisions have?
+- How can I put the player in a position to make those decisions?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resources are
+- Gold (Premium)
+- Silver (Labor/actions)
+- Food
+- Stone
+- Wood
+
+
+
+- House generate pesants over time
+
+- house 
+	- one pesant per 6 hours
+- Black smith (require)
+	- 10 silver per 15 min
+
+
+	
+- Pesants can be trained to be craftsmen (10 => 1)
+	- Craftsmen are should to work a blacksmit. 5 needed for fastest production.
+	- Craftsmen have longer worktime before they retire/expire (NO)
+		- Just bonus if all is craftsmen 
+	
+- Placing a blacksmit next to military building (church, barack, castle)
+	- reduces craftsmen needed to function
+	
+
+- Placing a house next to certain buildings decrese generation time
+	- Blacksmith -10%
+	- Blacksmith + market -25%
+	- Blacksmith + market + tavern -50%
+	
+
+	
+- Buildings have ability, that can used to place jobs on tiles. A job takes time to complete, and only a certain number of jobs can be active at a time.
+
+
+
+
+
+- Church cooldown bonus 
+	- Houses
+	
+	
+	
+	
+- Tiles witin 2 tiles of water are fertile
+	- Wheat can be grown
+	- Trees can be planted
+	
+	
+- Produced resources like wood from fell trees, cropped wheat,
+
+
+
+- Advisors give bonus while active (24h)
+
+
+- Desiseaces makes you lose pesants and craftsmen
+
+
+
+
+
+- House generate labor point to pool for a city
+- A structure can be place and has an upkeep to work.
+
+
+
+
+
+
+
+- Small community
+	- Tradepost ()
+	- Blacksmith
+	- Tavern
+		- 
+	- Church
+	- School
+	- Workshop
+	- Carpenter
+	- Woodcutter
+	- Farm
+	- Willmidll
+	- Stonecutter
+	- Fishermen
+	- Cider destill
+	- Carcoal maker
+	
+	- Market
+	
+	
+
+
+- Can backsmith buy iron from another village?
+	
