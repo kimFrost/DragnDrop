@@ -1,0 +1,93 @@
+
+- Branching based on law/enviroment/stats
+
+
+- House
+	- 
+
+- Industry
+	- Woodcutter
+		- If forest is near.
+		- 
+				
+- Culture
+
+
+- 
+
+
+
+
+
+What decisions do a king take?
+- Plan future of society 
+
+
+
+
+
+- More lemmings
+
+- Job hazard
+- Living conditions
+	- Temperture
+	- Humidity
+	- Hazards
+	- Scenery
+	
+
+	
+- Hazards
+	- Radiations
+	- Heat
+	- Cold
+	- Acid
+	- Sharp tools
+	- Cliffs
+	- Diseases/plaguge
+	- Shock/electrical
+	- Strong currents
+	- explosions
+	- poison/toxins
+	- Fumes
+	- Polution
+	- Taint
+	- War
+	- Crime/bandits
+	- Famine
+	- Violence
+	- Heresy
+	- Work hazard (hunting)
+	
+	
+	
+	
+	
+
+
+Unstable underground
+- drill into for resource bonus
+- Might erupt 
+
+
+
+- Radiations from sources + buildings
+
+
+
+Lavapool
+- Heat to all adjacent tiles
+- 
+
+
+Polutions city:
+
+- Rubber
+	- Plastics
+
+	
+
+	
+Socity is wiped on player death. 
+- The player awakens anew. Only ruins remain.
+	
